@@ -132,4 +132,4 @@ Python 3.10+ | pandas | SQLite | FastAPI | Streamlit | Plotly | scikit-learn | R
 
 ---
 
-Developed by Abhinavpreet Singh
+
