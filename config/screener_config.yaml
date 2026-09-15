@@ -1,0 +1,109 @@
+# Nifty 100 Stock Screener Configuration
+# Analyst-editable thresholds and weights
+
+# ============================================================
+# COMPOSITE SCORE WEIGHTS (total sum = 1.0)
+# ============================================================
+weights:
+  profitability:
+    total: 0.35
+    metrics:
+      return_on_equity_pct: 0.15
+      roce: 0.10
+      net_profit_margin_pct: 0.10
+  cash_quality:
+    total: 0.30
+    metrics:
+      fcf_cagr_5yr: 0.15  # pat_5yr_cagr used as proxy if FCF CAGR is not direct, or computed FCF CAGR
+      cfo_pat_ratio: 0.10
+      fcf_positive_flag: 0.05
+  growth:
+    total: 0.20
+    metrics:
+      revenue_5yr_cagr: 0.10
+      pat_5yr_cagr: 0.10
+  leverage:
+    total: 0.15
+    metrics:
+      debt_to_equity_score: 0.10
+      interest_coverage_score: 0.05
+
+# ============================================================
+# PRESET STOCK SCREENERS
+# ============================================================
+presets:
+  Quality Compounder:
+    description: "High return, low leverage, strong cash flow, and steady growth"
+    filters:
+      return_on_equity_pct:
+        min: 15.0
+      debt_to_equity:
+        max: 1.0
+      free_cash_flow_cr:
+        min: 0.01  # FCF > 0
+      revenue_5yr_cagr:
+        min: 10.0
+    rank_by: "composite_score"
+    order: "desc"
+
+  Value Pick:
+    description: "Undervalued companies with high free cash flow yields and solid fundamentals"
+    filters:
+      pe_ratio:
+        max: 20.0
+      pb_ratio:
+        max: 3.0
+      debt_to_equity:
+        max: 2.0
+      dividend_yield:
+        min: 1.0
+    rank_by: "fcf_yield"
+    order: "desc"
+
+  Growth Accelerator:
+    description: "Rapidly expanding earnings and revenue with moderate debt"
+    filters:
+      pat_5yr_cagr:
+        min: 20.0
+      revenue_5yr_cagr:
+        min: 15.0
+      debt_to_equity:
+        max: 2.0
+    rank_by: "pat_5yr_cagr"
+    order: "desc"
+
+  Dividend Champion:
+    description: "Attractive yield backed by sustainable payouts and positive cash generation"
+    filters:
+      dividend_yield:
+        min: 2.0
+      dividend_payout_ratio_pct:
+        max: 80.0
+      free_cash_flow_cr:
+        min: 0.01  # FCF > 0
+    rank_by: "dividend_yield"
+    order: "desc"
+
+  Debt-Free Blue Chip:
+    description: "Asset-rich, stable companies with zero or virtually zero debt"
+    filters:
+      debt_to_equity:
+        max: 0.05  # D/E <= 0.05 (virtually debt-free blue chips)
+      return_on_equity_pct:
+        min: 12.0
+      sales:
+        min: 5000.0  # Revenue > 5,000 Cr
+    rank_by: "return_on_equity_pct"
+    order: "desc"
+
+  Turnaround Watch:
+    description: "Companies with improving cash flows and declining leverage"
+    filters:
+      revenue_3yr_cagr:
+        min: 10.0
+      free_cash_flow_cr:
+        min: 0.01  # FCF > 0 latest yr
+      fcf_improving: true  # custom check in code: FCF_latest > FCF_prev
+      de_declining: true    # custom check in code: DE_latest < DE_prev
+    rank_by: "revenue_3yr_cagr"
+    order: "desc"

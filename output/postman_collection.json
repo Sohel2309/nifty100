@@ -1,0 +1,121 @@
+{
+  "info": {
+    "name": "Nifty 100 Financial Intelligence API",
+    "description": "Postman collection for fundamental metrics and analytical endpoints",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+  },
+  "item": [
+    {
+      "name": "Health Check",
+      "request": {
+        "method": "GET",
+        "header": [],
+        "url": {
+          "raw": "http://localhost:8000/api/v1/health",
+          "protocol": "http",
+          "host": [
+            "localhost"
+          ],
+          "port": "8000",
+          "path": [
+            "api",
+            "v1",
+            "health"
+          ]
+        }
+      }
+    },
+    {
+      "name": "List All Companies",
+      "request": {
+        "method": "GET",
+        "header": [],
+        "url": {
+          "raw": "http://localhost:8000/api/v1/companies",
+          "protocol": "http",
+          "host": [
+            "localhost"
+          ],
+          "port": "8000",
+          "path": [
+            "api",
+            "v1",
+            "companies"
+          ]
+        }
+      }
+    },
+    {
+      "name": "Get Company Profile (TCS)",
+      "request": {
+        "method": "GET",
+        "header": [],
+        "url": {
+          "raw": "http://localhost:8000/api/v1/companies/TCS",
+          "protocol": "http",
+          "host": [
+            "localhost"
+          ],
+          "port": "8000",
+          "path": [
+            "api",
+            "v1",
+            "companies",
+            "TCS"
+          ]
+        }
+      }
+    },
+    {
+      "name": "Stock Screener (ROE >= 15, D/E <= 1.0)",
+      "request": {
+        "method": "GET",
+        "header": [],
+        "url": {
+          "raw": "http://localhost:8000/api/v1/screener?min_roe=15&max_de=1.0",
+          "protocol": "http",
+          "host": [
+            "localhost"
+          ],
+          "port": "8000",
+          "path": [
+            "api",
+            "v1",
+            "screener"
+          ],
+          "query": [
+            {
+              "key": "min_roe",
+              "value": "15"
+            },
+            {
+              "key": "max_de",
+              "value": "1.0"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "Get Peer Percentiles (Automobiles)",
+      "request": {
+        "method": "GET",
+        "header": [],
+        "url": {
+          "raw": "http://localhost:8000/api/v1/peers/Automobiles",
+          "protocol": "http",
+          "host": [
+            "localhost"
+          ],
+          "port": "8000",
+          "path": [
+            "api",
+            "v1",
+            "peers",
+            "Automobiles"
+          ]
+        }
+      }
+    }
+  ]
+}

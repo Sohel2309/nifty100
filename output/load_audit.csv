@@ -1,0 +1,13 @@
+dataset,rows_in,rows_inserted,rows_rejected,rejection_reasons,load_duration_sec,timestamp,status
+companies,92,92,0,{},0.035216,2026-06-19T20:37:31.341630,SUCCESS
+profitandloss,1070,1070,0,{},0.126398,2026-06-19T20:37:31.494936,SUCCESS
+balancesheet,1140,1140,0,{},0.140955,2026-06-19T20:37:31.659592,SUCCESS
+cashflow,1056,1054,2,"{""NOT NULL constraint failed: cashflow.operating_activity"": 2}",0.183652,2026-06-19T20:37:31.870701,PARTIAL
+analysis,4,4,0,{},0.025786,2026-06-19T20:37:31.907412,SUCCESS
+documents,1456,1405,51,"{""NOT NULL constraint failed: documents.document_url"": 51}",0.223661,2026-06-19T20:37:32.160140,PARTIAL
+prosandcons,4,4,0,{},0.005167,2026-06-19T20:37:32.177865,SUCCESS
+financial_ratios,1041,1041,0,{},0.116458,2026-06-19T20:37:32.313551,SUCCESS
+peer_groups,56,56,0,{},0.012956,2026-06-19T20:37:32.334363,SUCCESS
+sectors,92,92,0,{},0.017746,2026-06-19T20:37:32.360393,SUCCESS
+stock_prices,5520,5520,0,{},0.566827,2026-06-19T20:37:32.954847,SUCCESS
+market_cap,552,552,0,{},0.078482,2026-06-19T20:37:33.042541,SUCCESS

@@ -1,0 +1,95 @@
+company_id,company_name,sector,broad_sector,pe_ratio,sector_median_pe,valuation_badge
+ABB,Abbott India Ltd,Industrials,Industrials,75.58,47.155,Caution
+ADANIENSOL,Adani Energy Solutions Ltd,Energy,Energy,58.5,44.915,Neutral
+ADANIENT,Adani Enterprises Ltd,Industrials,Industrials,58.87,47.155,Neutral
+ADANIGREEN,Adani Green Energy Ltd,Energy,Energy,45.26,44.915,Neutral
+ADANIPORTS,Adani Ports & Special Economic Zone Ltd,Industrials,Industrials,48.9,47.155,Neutral
+ADANIPOWER,Adani Power Ltd,Energy,Energy,44.57,44.915,Neutral
+AMBUJACEM,Ambuja Cements Ltd,Materials,Materials,55.62,55.62,Neutral
+APOLLOHOSP,"Apollo Hospitals
+Chain of Indian private hospitals",Healthcare,Healthcare,47.72,47.06,Neutral
+ASIANPAINT,"Asian Paints
+Indian Multi-National Paint and Coating Manufacturing Company",Materials,Materials,73.37,55.62,Neutral
+ATGL,Adani Total Gas Ltd,Energy,Energy,56.96,44.915,Neutral
+AXISBANK,Axis Bank Ltd,Financials,Financials,38.14,34.24,Neutral
+BAJAJ-AUTO,Bajaj Auto Ltd,Consumer Discretionary,Consumer Discretionary,29.91,38.005,Neutral
+BAJAJFINSV,Bajaj Finserv Ltd,Financials,Financials,15.07,34.24,Discount
+BAJAJHLDNG,Bajaj Holdings & Investment Ltd,Financials,Financials,37.73,34.24,Neutral
+BAJFINANCE,Bajaj Finance Ltd,Financials,Financials,69.2,34.24,Caution
+BANKBARODA,Bank of Baroda,Financials,Financials,16.89,34.24,Discount
+BEL,Bharat Electronics Ltd,Industrials,Industrials,17.89,47.155,Discount
+BHARTIARTL,Bharti Airtel Ltd,Communication Services,Communication Services,63.78,48.33,Neutral
+BHEL,Bharat Heavy Electricals Limited,Industrials,Industrials,29.8,47.155,Discount
+BOSCHLTD,Bosch Ltd,Consumer Discretionary,Consumer Discretionary,58.43,38.005,Caution
+BPCL,Bharat Petroleum Corporation Ltd,Energy,Energy,68.15,44.915,Caution
+BRITANNIA,Britannia Industries Ltd,Consumer Staples,Consumer Staples,63.91,50.95,Neutral
+CANBK,Canara Bank,Financials,Financials,36.74,34.24,Neutral
+CHOLAFIN,Cholamandalam Investment & Finance Company Ltd,Financials,Financials,16.79,34.24,Discount
+CIPLA,Cipla Ltd,Healthcare,Healthcare,59.75,47.06,Neutral
+COALINDIA,Coal India Ltd,Materials,Materials,34.27,55.62,Discount
+DABUR,Dabur India Ltd,Consumer Staples,Consumer Staples,50.95,50.95,Neutral
+DIVISLAB,Divis Laboratories Ltd,Healthcare,Healthcare,69.95,47.06,Neutral
+DLF,DLF Ltd,Real Estate,Real Estate,46.26,49.105000000000004,Neutral
+DMART,Avenue Supermarts Ltd,Consumer Discretionary,Consumer Discretionary,72.53,38.005,Caution
+DRREDDY,Dr Reddys Laboratories Ltd,Healthcare,Healthcare,11.73,47.06,Discount
+EICHERMOT,Eicher Motors Ltd,Consumer Discretionary,Consumer Discretionary,15.62,38.005,Discount
+GAIL,GAIL (India) Ltd,Energy,Energy,25.84,44.915,Discount
+GODREJCP,Godrej Consumer Products Ltd,Consumer Staples,Consumer Staples,33.59,50.95,Discount
+GRASIM,Grasim Industries Ltd,Industrials,Industrials,79.35,47.155,Caution
+HAL,Hindustan Aeronautics Ltd,Industrials,Industrials,71.89,47.155,Caution
+HAVELLS,Havells India Ltd,Industrials,Industrials,45.41,47.155,Neutral
+HCLTECH,HCL Technologies Ltd,Information Technology,Information Technology,63.63,63.63,Neutral
+HDFCBANK,HDFC Bank Ltd,Financials,Financials,49.42,34.24,Neutral
+HDFCLIFE,HDFC Life Insurance Company Ltd,Financials,Financials,50.59,34.24,Neutral
+HEROMOTOCO,Hero MotoCorp Ltd,Consumer Discretionary,Consumer Discretionary,53.86,38.005,Neutral
+HINDALCO,Hindalco Industries Ltd,Materials,Materials,56.45,55.62,Neutral
+HINDUNILVR,Hindustan Unilever Ltd,Consumer Staples,Consumer Staples,34.51,50.95,Discount
+ICICIBANK,ICICI Bank Ltd,Financials,Financials,25.76,34.24,Neutral
+ICICIGI,ICICI Lombard General Insurance Company Ltd,Financials,Financials,49.0,34.24,Neutral
+ICICIPRULI,ICICI Prudential Life Insurance Company Ltd,Financials,Financials,20.83,34.24,Discount
+INDIGO,Interglobe Aviation Ltd,Consumer Discretionary,Consumer Discretionary,76.23,38.005,Caution
+INDUSINDBK,IndusInd Bank Ltd,Financials,Financials,8.99,34.24,Discount
+INFY,Infosys Ltd,Information Technology,Information Technology,35.99,63.63,Discount
+IOC,Indian Oil Corporation,Energy,Energy,28.61,44.915,Discount
+IRCTC,Indian Railway Catering & Tourism Corporation Ltd,Consumer Discretionary,Consumer Discretionary,60.44,38.005,Caution
+IRFC,Indian Railway Finance Corporation Ltd,Financials,Financials,9.81,34.24,Discount
+ITC,ITC Ltd,Consumer Staples,Consumer Staples,47.85,50.95,Neutral
+JINDALSTEL,Jindal Steel & Power Ltd,Materials,Materials,77.64,55.62,Neutral
+JIOFIN,Jio Financial Services Ltd,Financials,Financials,34.24,34.24,Neutral
+JSWENERGY,JSW Energy Ltd,Energy,Energy,24.79,44.915,Discount
+JSWSTEEL,JSW Steel Ltd,Materials,Materials,69.27,55.62,Neutral
+KOTAKBANK,Kotak Mahindra Bank Ltd,Financials,Financials,32.9,34.24,Neutral
+LICI,Life Insurance Corporation of India,Financials,Financials,30.67,34.24,Neutral
+LODHA,Macrotech Developers Ltd,Real Estate,Real Estate,51.95,49.105000000000004,Neutral
+LT,Larsen & Toubro Ltd,Industrials,Industrials,30.8,47.155,Discount
+LTIM,LTIMindtree Ltd,Information Technology,Information Technology,64.52,63.63,Neutral
+MM,Mahindra & Mahindra Ltd,Consumer Discretionary,Consumer Discretionary,14.22,38.005,Discount
+MARUTI,Maruti Suzuki India Ltd,Consumer Discretionary,Consumer Discretionary,20.78,38.005,Discount
+MOTHERSON,Samvardhana Motherson International Ltd,Consumer Discretionary,Consumer Discretionary,9.54,38.005,Discount
+NAUKRI,Info Edge (India) Ltd,Communication Services,Communication Services,32.88,48.33,Discount
+NESTLEIND,Nestle India Ltd,Consumer Staples,Consumer Staples,54.96,50.95,Neutral
+NHPC,NHPC Ltd,Energy,Energy,71.17,44.915,Caution
+NTPC,NTPC Ltd,Energy,Energy,30.8,44.915,Discount
+ONGC,Oil & Natural Gas Corpn Ltd,Energy,Energy,18.15,44.915,Discount
+PFC,Power Finance Corporation Ltd,Financials,Financials,35.6,34.24,Neutral
+PIDILITIND,Pidilite Industries Ltd,Materials,Materials,36.12,55.62,Discount
+PNB,Punjab National Bank,Financials,Financials,19.29,34.24,Discount
+POWERGRID,Power Grid Corporation of India Ltd,Energy,Energy,64.39,44.915,Neutral
+RECLTD,REC Ltd,Financials,Financials,31.49,34.24,Neutral
+RELIANCE,Reliance Industries Ltd,Energy,Energy,58.34,44.915,Neutral
+SBILIFE,SBI Life Insurance Company Ltd,Financials,Financials,69.98,34.24,Caution
+SBIN,State Bank of India,Financials,Financials,54.93,34.24,Caution
+SHREECEM,Shree Cement Ltd,Materials,Materials,25.87,55.62,Discount
+SHRIRAMFIN,Shriram Finance Ltd,Financials,Financials,68.53,34.24,Caution
+SIEMENS,Siemens Ltd,Industrials,Industrials,33.32,47.155,Neutral
+SUNPHARMA,Sun Pharmaceuticals Industries Ltd,Healthcare,Healthcare,37.9,47.06,Neutral
+TATACONSUM,Tata Consumer Products Ltd,Consumer Staples,Consumer Staples,54.79,50.95,Neutral
+TATAMOTORS,Tata Motors Ltd,Consumer Discretionary,Consumer Discretionary,67.07,38.005,Caution
+TATAPOWER,Tata Power Company Ltd,Energy,Energy,14.5,44.915,Discount
+TATASTEEL,Tata Steel Ltd,Materials,Materials,48.97,55.62,Neutral
+TCS,Tata Consultancy Services Ltd,Information Technology,Information Technology,78.69,63.63,Neutral
+TECHM,Tech Mahindra Ltd,Information Technology,Information Technology,57.4,63.63,Neutral
+TITAN,Titan Company Ltd,Consumer Discretionary,Consumer Discretionary,10.13,38.005,Discount
+TORNTPHARM,Torrent Pharmaceuticals Ltd,Healthcare,Healthcare,46.4,47.06,Neutral
+TRENT,Trent Ltd,Consumer Discretionary,Consumer Discretionary,8.65,38.005,Discount
+TVSMOTOR,TVS Motor Company Ltd,Consumer Discretionary,Consumer Discretionary,46.1,38.005,Neutral

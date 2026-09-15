@@ -1,0 +1,4 @@
+company_id,company_name,broad_sector,metric,value,sector_mean,z_score
+INDIGO,Interglobe Aviation Ltd,Consumer Discretionary,return_on_equity_pct,892.5683,86.7241,3.4719
+ADANIGREEN,Adani Green Energy Ltd,Energy,debt_to_equity,6.5953,1.4596,3.1429
+PNB,Punjab National Bank,Financials,return_on_equity_pct,61.3206,19.0071,3.2495

@@ -1,0 +1,39 @@
+# Core Data Processing
+pandas==2.2.0
+openpyxl==3.1.5
+numpy==1.26.4
+
+# URL & Request Handling
+requests==2.31.0
+urllib3==2.1.0
+
+# Analytics & Statistics
+scipy==1.12.0
+scikit-learn==1.4.1.post1
+
+# Reporting & Visualization
+reportlab==4.0.9
+matplotlib==3.8.3
+plotly==5.18.0
+
+# Dashboard
+streamlit==1.31.1
+
+# API
+fastapi==0.109.0
+uvicorn==0.27.0
+
+# Testing
+pytest==7.4.4
+pytest-cov==4.1.0
+
+# Environment & Configuration
+python-dotenv==1.0.0
+PyYAML==6.0.1
+
+# NLP & Text Processing
+nltk==3.8.1
+
+# Utilities
+python-dateutil==2.8.2
+pytz==2024.1

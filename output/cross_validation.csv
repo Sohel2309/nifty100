@@ -1,0 +1,9 @@
+company_id,metric,parsed_cagr,computed_cagr,divergence_pct,flag_divergent
+SBILIFE,Revenue 5yr CAGR,24.0,24.2316,0.2316,0
+SBILIFE,PAT 5yr CAGR,6.0,7.3747,1.3747,0
+TCS,Revenue 5yr CAGR,10.0,10.4636,0.4636,0
+TCS,PAT 5yr CAGR,8.0,7.8712,0.1288,0
+HDFCBANK,Revenue 5yr CAGR,22.0,21.951,0.049,0
+HDFCBANK,PAT 5yr CAGR,23.0,23.8651,0.8651,0
+INFY,Revenue 5yr CAGR,13.0,13.1991,0.1991,0
+INFY,PAT 5yr CAGR,11.0,11.2394,0.2394,0

@@ -1,0 +1,494 @@
+company_id,pros,cons,sentiment_score,confidence_score
+ABB,"Excellent return on equity (ROE) of 32.5% indicates high capital efficiency.
+Strong return on capital employed (ROCE) of 35.7% shows highly profitable operations.
+Conservative leverage with a healthy Debt-to-Equity of 0.02.
+Accelerated earnings expansion with a 5-year PAT CAGR of 21.7%.
+Strong cash generation with a latest Free Cash Flow of ₹1,095.0 Cr.
+High-quality earnings backed by a strong cash-flow-to-profit conversion (CFO/PAT ratio of 5.03).
+Excellent debt servicing capacity with an Interest Coverage Ratio of 141.8x.",Stock trades at a premium valuation multiple with a high P/E ratio of 75.6 (above sector median of 47.2).,0.9828,0.85
+ADANIENSOL,"Robust long-term top-line growth with a 5-year Sales CAGR of 17.9%.
+Strong cash generation with a latest Free Cash Flow of ₹1,095.0 Cr.
+High-quality earnings backed by a strong cash-flow-to-profit conversion (CFO/PAT ratio of 5.05).","High leverage with a Debt-to-Equity ratio of 2.93, increasing insolvency risk.
+Premium asset pricing with a high Price-to-Book multiple of 9.1.
+Asset-heavy or inefficient operations with a low asset turnover of 0.28.",0.9413,0.85
+ADANIENT,"Robust long-term top-line growth with a 5-year Sales CAGR of 19.0%.
+Accelerated earnings expansion with a 5-year PAT CAGR of 45.8%.
+High-quality earnings backed by a strong cash-flow-to-profit conversion (CFO/PAT ratio of 3.09).","Low return on capital employed (ROCE) of 9.4% shows inefficient capital allocation.
+Latest free cash flow is negative (₹-8,455.0 Cr), requiring external capital or cash drawdowns.
+Premium asset pricing with a high Price-to-Book multiple of 10.4.",0.8126,0.85
+ADANIGREEN,"Robust long-term top-line growth with a 5-year Sales CAGR of 35.0%.
+High-quality earnings backed by a strong cash-flow-to-profit conversion (CFO/PAT ratio of 6.12).","High leverage with a Debt-to-Equity ratio of 6.60, increasing insolvency risk.
+Latest free cash flow is negative (₹-13,347.0 Cr), requiring external capital or cash drawdowns.
+Weak debt servicing cushion with an Interest Coverage Ratio of only 1.71x.
+Asset-heavy or inefficient operations with a low asset turnover of 0.10.",0.5994,0.85
+ADANIPORTS,"Robust long-term top-line growth with a 5-year Sales CAGR of 19.6%.
+Strong cash generation with a latest Free Cash Flow of ₹8,250.0 Cr.
+High-quality earnings backed by a strong cash-flow-to-profit conversion (CFO/PAT ratio of 1.85).",Asset-heavy or inefficient operations with a low asset turnover of 0.23.,0.9371,0.85
+ADANIPOWER,"Excellent return on equity (ROE) of 48.3% indicates high capital efficiency.
+Strong return on capital employed (ROCE) of 53.1% shows highly profitable operations.
+Robust long-term top-line growth with a 5-year Sales CAGR of 16.1%.
+Strong cash generation with a latest Free Cash Flow of ₹17,651.0 Cr.
+Excellent debt servicing capacity with an Interest Coverage Ratio of 8.3x.",Premium asset pricing with a high Price-to-Book multiple of 9.9.,0.9838,0.85
+AMBUJACEM,"Conservative leverage with a healthy Debt-to-Equity of 0.02.
+Excellent debt servicing capacity with an Interest Coverage Ratio of 28.3x.
+Attractive dividend yield of 3.1% provides stable cash income.","Latest free cash flow is negative (₹-3,295.0 Cr), requiring external capital or cash drawdowns.
+Premium asset pricing with a high Price-to-Book multiple of 9.2.",0.9201,0.85
+APOLLOHOSP,"Accelerated earnings expansion with a 5-year PAT CAGR of 36.1%.
+High-quality earnings backed by a strong cash-flow-to-profit conversion (CFO/PAT ratio of 2.05).
+Attractive dividend yield of 3.2% provides stable cash income.",Subject to general macroeconomic cycles and equity market volatility risks.,0.7506,0.85
+ASIANPAINT,"Excellent return on equity (ROE) of 29.7% indicates high capital efficiency.
+Strong return on capital employed (ROCE) of 32.6% shows highly profitable operations.
+Conservative leverage with a healthy Debt-to-Equity of 0.13.
+Accelerated earnings expansion with a 5-year PAT CAGR of 20.3%.
+Strong cash generation with a latest Free Cash Flow of ₹3,556.0 Cr.
+Excellent debt servicing capacity with an Interest Coverage Ratio of 41.0x.",Subject to general macroeconomic cycles and equity market volatility risks.,0.9753,0.85
+ATGL,"Robust long-term top-line growth with a 5-year Sales CAGR of 21.1%.
+Accelerated earnings expansion with a 5-year PAT CAGR of 23.9%.
+Excellent debt servicing capacity with an Interest Coverage Ratio of 10.5x.",Subject to general macroeconomic cycles and equity market volatility risks.,0.7964,0.85
+AXISBANK,Accelerated earnings expansion with a 5-year PAT CAGR of 39.7%.,"Latest free cash flow is negative (₹-14,556.0 Cr), requiring external capital or cash drawdowns.
+Lower earnings quality with a CFO/PAT ratio of only -0.22, indicating accrual drag.
+Weak debt servicing cushion with an Interest Coverage Ratio of only 1.69x.
+Asset-heavy or inefficient operations with a low asset turnover of 0.07.",-0.6705,0.85
+BAJAJ-AUTO,"Excellent return on equity (ROE) of 26.6% indicates high capital efficiency.
+Strong return on capital employed (ROCE) of 29.3% shows highly profitable operations.
+Conservative leverage with a healthy Debt-to-Equity of 0.07.
+Strong cash generation with a latest Free Cash Flow of ₹6,486.0 Cr.
+Excellent debt servicing capacity with an Interest Coverage Ratio of 174.4x.
+Attractive dividend yield of 3.6% provides stable cash income.",Premium asset pricing with a high Price-to-Book multiple of 9.8.,0.9859,0.85
+BAJAJFINSV,"Excellent return on equity (ROE) of 25.9% indicates high capital efficiency.
+Strong return on capital employed (ROCE) of 28.4% shows highly profitable operations.
+Robust long-term top-line growth with a 5-year Sales CAGR of 21.0%.
+Accelerated earnings expansion with a 5-year PAT CAGR of 23.7%.","Latest free cash flow is negative (₹-79,634.0 Cr), requiring external capital or cash drawdowns.
+Lower earnings quality with a CFO/PAT ratio of only -4.40, indicating accrual drag.
+Asset-heavy or inefficient operations with a low asset turnover of 0.21.",0.9307,0.85
+BAJAJHLDNG,"Conservative leverage with a healthy Debt-to-Equity of 0.00.
+Robust long-term top-line growth with a 5-year Sales CAGR of 31.6%.
+Strong cash generation with a latest Free Cash Flow of ₹1,469.0 Cr.
+Excellent debt servicing capacity with an Interest Coverage Ratio of 3764.5x.
+Attractive dividend yield of 3.4% provides stable cash income.","Lower earnings quality with a CFO/PAT ratio of only 0.26, indicating accrual drag.
+Premium asset pricing with a high Price-to-Book multiple of 9.4.
+Asset-heavy or inefficient operations with a low asset turnover of 0.03.",0.9698,0.85
+BAJFINANCE,"Robust long-term top-line growth with a 5-year Sales CAGR of 24.4%.
+Accelerated earnings expansion with a 5-year PAT CAGR of 29.3%.
+Excellent debt servicing capacity with an Interest Coverage Ratio of 2689.2x.","Latest free cash flow is negative (₹-79,931.0 Cr), requiring external capital or cash drawdowns.
+Lower earnings quality with a CFO/PAT ratio of only -5.03, indicating accrual drag.
+Stock trades at a premium valuation multiple with a high P/E ratio of 69.2 (above sector median of 34.2).
+Asset-heavy or inefficient operations with a low asset turnover of 0.15.",0.7269,0.85
+BANKBARODA,"Robust long-term top-line growth with a 5-year Sales CAGR of 17.5%.
+Accelerated earnings expansion with a 5-year PAT CAGR of 74.5%.","Latest free cash flow is negative (₹-7,559.0 Cr), requiring external capital or cash drawdowns.
+Lower earnings quality with a CFO/PAT ratio of only -0.33, indicating accrual drag.
+Asset-heavy or inefficient operations with a low asset turnover of 0.07.",0.2263,0.85
+BEL,"Excellent return on equity (ROE) of 4744.0% indicates high capital efficiency.
+Strong return on capital employed (ROCE) of 5218.5% shows highly profitable operations.
+Excellent debt servicing capacity with an Interest Coverage Ratio of 476.8x.
+Efficient asset utilization with an asset turnover ratio of 125.89.","Latest free cash flow is negative (₹-1,265.0 Cr), requiring external capital or cash drawdowns.
+Premium asset pricing with a high Price-to-Book multiple of 9.2.",0.9771,0.85
+BHARTIARTL,"Accelerated earnings expansion with a 5-year PAT CAGR of 38.4%.
+Strong cash generation with a latest Free Cash Flow of ₹27,809.0 Cr.
+High-quality earnings backed by a strong cash-flow-to-profit conversion (CFO/PAT ratio of 9.22).
+Generous free cash flow yield of 7.3% indicates undervaluation.","High leverage with a Debt-to-Equity ratio of 2.61, increasing insolvency risk.
+Asset-heavy or inefficient operations with a low asset turnover of 0.34.",0.9423,0.85
+BHEL,Attractive dividend yield of 4.0% provides stable cash income.,"Subpar return on equity (ROE) of 1.2% indicates weak profitability relative to equity.
+Low return on capital employed (ROCE) of 1.3% shows inefficient capital allocation.
+Stagnant revenue growth with a 5-year Sales CAGR of only -4.7%.
+Sluggish earnings performance with a 5-year PAT CAGR of -22.4%.
+Latest free cash flow is negative (₹-2,382.0 Cr), requiring external capital or cash drawdowns.
+Lower earnings quality with a CFO/PAT ratio of only -13.17, indicating accrual drag.
+Weak debt servicing cushion with an Interest Coverage Ratio of only 1.59x.
+Premium asset pricing with a high Price-to-Book multiple of 11.4.
+Asset-heavy or inefficient operations with a low asset turnover of 0.40.",-0.2263,0.85
+BOSCHLTD,"Excellent return on equity (ROE) of 20.6% indicates high capital efficiency.
+Conservative leverage with a healthy Debt-to-Equity of 0.00.
+Strong cash generation with a latest Free Cash Flow of ₹1,536.0 Cr.
+Excellent debt servicing capacity with an Interest Coverage Ratio of 71.8x.
+Attractive dividend yield of 4.2% provides stable cash income.","Lower earnings quality with a CFO/PAT ratio of only 0.50, indicating accrual drag.
+Stock trades at a premium valuation multiple with a high P/E ratio of 58.4 (above sector median of 38.0).",0.967,0.85
+BPCL,"Excellent return on equity (ROE) of 35.5% indicates high capital efficiency.
+Strong return on capital employed (ROCE) of 39.1% shows highly profitable operations.
+Accelerated earnings expansion with a 5-year PAT CAGR of 25.8%.
+Strong cash generation with a latest Free Cash Flow of ₹25,415.0 Cr.
+High-quality earnings backed by a strong cash-flow-to-profit conversion (CFO/PAT ratio of 1.34).
+Excellent debt servicing capacity with an Interest Coverage Ratio of 11.4x.
+Efficient asset utilization with an asset turnover ratio of 2.21.",Stock trades at a premium valuation multiple with a high P/E ratio of 68.2 (above sector median of 44.9).,0.9869,0.85
+BRITANNIA,"Excellent return on equity (ROE) of 54.1% indicates high capital efficiency.
+Strong return on capital employed (ROCE) of 59.6% shows highly profitable operations.
+Strong cash generation with a latest Free Cash Flow of ₹3,050.0 Cr.
+High-quality earnings backed by a strong cash-flow-to-profit conversion (CFO/PAT ratio of 1.21).
+Excellent debt servicing capacity with an Interest Coverage Ratio of 20.6x.
+Efficient asset utilization with an asset turnover ratio of 1.85.",Subject to general macroeconomic cycles and equity market volatility risks.,0.9856,0.85
+CANBK,"Robust long-term top-line growth with a 5-year Sales CAGR of 18.2%.
+Accelerated earnings expansion with a 5-year PAT CAGR of 85.8%.
+Strong cash generation with a latest Free Cash Flow of ₹13,296.0 Cr.
+Attractive dividend yield of 3.8% provides stable cash income.","Weak debt servicing cushion with an Interest Coverage Ratio of only 1.61x.
+Premium asset pricing with a high Price-to-Book multiple of 12.6.
+Asset-heavy or inefficient operations with a low asset turnover of 0.07.",0.9451,0.85
+CHOLAFIN,"Robust long-term top-line growth with a 5-year Sales CAGR of 21.9%.
+Accelerated earnings expansion with a 5-year PAT CAGR of 23.4%.
+Excellent debt servicing capacity with an Interest Coverage Ratio of 21.2x.","Latest free cash flow is negative (₹-38,538.0 Cr), requiring external capital or cash drawdowns.
+Lower earnings quality with a CFO/PAT ratio of only -10.43, indicating accrual drag.
+Premium asset pricing with a high Price-to-Book multiple of 10.4.
+Asset-heavy or inefficient operations with a low asset turnover of 0.12.",0.8225,0.85
+CIPLA,"Conservative leverage with a healthy Debt-to-Equity of 0.02.
+Accelerated earnings expansion with a 5-year PAT CAGR of 22.7%.
+Strong cash generation with a latest Free Cash Flow of ₹1,152.0 Cr.
+Excellent debt servicing capacity with an Interest Coverage Ratio of 35.3x.",Subject to general macroeconomic cycles and equity market volatility risks.,0.9081,0.85
+COALINDIA,"Excellent return on equity (ROE) of 45.2% indicates high capital efficiency.
+Strong return on capital employed (ROCE) of 49.7% shows highly profitable operations.
+Conservative leverage with a healthy Debt-to-Equity of 0.08.
+Strong cash generation with a latest Free Cash Flow of ₹13,617.0 Cr.
+Excellent debt servicing capacity with an Interest Coverage Ratio of 11.2x.
+Attractive dividend yield of 4.4% provides stable cash income.","Lower earnings quality with a CFO/PAT ratio of only 0.48, indicating accrual drag.
+Premium asset pricing with a high Price-to-Book multiple of 14.8.",0.9829,0.85
+DABUR,"Conservative leverage with a healthy Debt-to-Equity of 0.14.
+Strong cash generation with a latest Free Cash Flow of ₹1,042.0 Cr.
+Excellent debt servicing capacity with an Interest Coverage Ratio of 23.2x.
+Attractive dividend yield of 3.4% provides stable cash income.","Sluggish earnings performance with a 5-year PAT CAGR of 4.6%.
+Premium asset pricing with a high Price-to-Book multiple of 13.6.",0.9545,0.85
+DIVISLAB,"Conservative leverage with a healthy Debt-to-Equity of 0.00.
+Strong cash generation with a latest Free Cash Flow of ₹992.0 Cr.
+Excellent debt servicing capacity with an Interest Coverage Ratio of 636.2x.","Sluggish earnings performance with a 5-year PAT CAGR of 3.4%.
+Premium asset pricing with a high Price-to-Book multiple of 12.3.",0.9231,0.85
+DLF,"Conservative leverage with a healthy Debt-to-Equity of 0.12.
+Strong cash generation with a latest Free Cash Flow of ₹1,010.0 Cr.","Subpar return on equity (ROE) of 6.9% indicates weak profitability relative to equity.
+Low return on capital employed (ROCE) of 7.6% shows inefficient capital allocation.
+Stagnant revenue growth with a 5-year Sales CAGR of only -5.1%.
+Premium asset pricing with a high Price-to-Book multiple of 14.3.
+Asset-heavy or inefficient operations with a low asset turnover of 0.11.",0.8979,0.85
+DMART,"Conservative leverage with a healthy Debt-to-Equity of 0.03.
+Robust long-term top-line growth with a 5-year Sales CAGR of 20.5%.
+Accelerated earnings expansion with a 5-year PAT CAGR of 23.0%.
+Excellent debt servicing capacity with an Interest Coverage Ratio of 73.3x.
+Efficient asset utilization with an asset turnover ratio of 2.40.","Stock trades at a premium valuation multiple with a high P/E ratio of 72.5 (above sector median of 38.0).
+Premium asset pricing with a high Price-to-Book multiple of 11.7.",0.9648,0.85
+DRREDDY,"Conservative leverage with a healthy Debt-to-Equity of 0.07.
+Accelerated earnings expansion with a 5-year PAT CAGR of 23.4%.
+Strong cash generation with a latest Free Cash Flow of ₹509.0 Cr.
+Excellent debt servicing capacity with an Interest Coverage Ratio of 51.7x.",Premium asset pricing with a high Price-to-Book multiple of 10.2.,0.9432,0.85
+EICHERMOT,"Excellent return on equity (ROE) of 22.2% indicates high capital efficiency.
+Conservative leverage with a healthy Debt-to-Equity of 0.02.
+Strong cash generation with a latest Free Cash Flow of ₹890.0 Cr.
+Excellent debt servicing capacity with an Interest Coverage Ratio of 114.7x.
+Attractive dividend yield of 4.4% provides stable cash income.",Premium asset pricing with a high Price-to-Book multiple of 13.6.,0.9783,0.85
+GAIL,"Conservative leverage with a healthy Debt-to-Equity of 0.28.
+Strong cash generation with a latest Free Cash Flow of ₹4,360.0 Cr.
+High-quality earnings backed by a strong cash-flow-to-profit conversion (CFO/PAT ratio of 1.27).
+Excellent debt servicing capacity with an Interest Coverage Ratio of 23.6x.",Premium asset pricing with a high Price-to-Book multiple of 9.5.,0.9607,0.85
+GODREJCP,"Conservative leverage with a healthy Debt-to-Equity of 0.26.
+Attractive dividend yield of 3.1% provides stable cash income.","Subpar return on equity (ROE) of -4.5% indicates weak profitability relative to equity.
+Low return on capital employed (ROCE) of -4.9% shows inefficient capital allocation.
+Latest free cash flow is negative (₹-1,365.0 Cr), requiring external capital or cash drawdowns.
+Premium asset pricing with a high Price-to-Book multiple of 8.1.",0.7184,0.85
+GRASIM,Accelerated earnings expansion with a 5-year PAT CAGR of 29.3%.,"Latest free cash flow is negative (₹-33,833.0 Cr), requiring external capital or cash drawdowns.
+Lower earnings quality with a CFO/PAT ratio of only -1.08, indicating accrual drag.
+Stock trades at a premium valuation multiple with a high P/E ratio of 79.3 (above sector median of 47.2).
+Asset-heavy or inefficient operations with a low asset turnover of 0.32.",-0.4767,0.85
+HAL,"Excellent return on equity (ROE) of 3816.6% indicates high capital efficiency.
+Strong return on capital employed (ROCE) of 4198.2% shows highly profitable operations.
+Accelerated earnings expansion with a 5-year PAT CAGR of 26.5%.
+Strong cash generation with a latest Free Cash Flow of ₹1,814.0 Cr.
+Excellent debt servicing capacity with an Interest Coverage Ratio of 270.9x.
+Efficient asset utilization with an asset turnover ratio of 67.51.",Stock trades at a premium valuation multiple with a high P/E ratio of 71.9 (above sector median of 47.2).,0.9839,0.85
+HAVELLS,"Conservative leverage with a healthy Debt-to-Equity of 0.04.
+High-quality earnings backed by a strong cash-flow-to-profit conversion (CFO/PAT ratio of 1.54).
+Excellent debt servicing capacity with an Interest Coverage Ratio of 25.4x.",Premium asset pricing with a high Price-to-Book multiple of 14.1.,0.9153,0.85
+HCLTECH,"Excellent return on equity (ROE) of 23.0% indicates high capital efficiency.
+Strong return on capital employed (ROCE) of 25.3% shows highly profitable operations.
+Conservative leverage with a healthy Debt-to-Equity of 0.08.
+Strong cash generation with a latest Free Cash Flow of ₹15,840.0 Cr.
+High-quality earnings backed by a strong cash-flow-to-profit conversion (CFO/PAT ratio of 1.43).
+Excellent debt servicing capacity with an Interest Coverage Ratio of 46.5x.","Unsustainably high dividend payout ratio of 90.0%, leaving little retained earnings for growth.",0.9849,0.85
+HDFCBANK,"Robust long-term top-line growth with a 5-year Sales CAGR of 22.0%.
+Accelerated earnings expansion with a 5-year PAT CAGR of 23.9%.
+Strong cash generation with a latest Free Cash Flow of ₹35,669.0 Cr.
+Attractive dividend yield of 4.3% provides stable cash income.","Lower earnings quality with a CFO/PAT ratio of only 0.29, indicating accrual drag.
+Weak debt servicing cushion with an Interest Coverage Ratio of only 1.40x.
+Asset-heavy or inefficient operations with a low asset turnover of 0.07.",0.891,0.85
+HDFCLIFE,"Conservative leverage with a healthy Debt-to-Equity of 0.06.
+Robust long-term top-line growth with a 5-year Sales CAGR of 21.2%.
+High-quality earnings backed by a strong cash-flow-to-profit conversion (CFO/PAT ratio of 6.81).
+Excellent debt servicing capacity with an Interest Coverage Ratio of 192.3x.
+Attractive dividend yield of 3.2% provides stable cash income.","Sluggish earnings performance with a 5-year PAT CAGR of 4.3%.
+Latest free cash flow is negative (₹-2,893.0 Cr), requiring external capital or cash drawdowns.
+Premium asset pricing with a high Price-to-Book multiple of 11.3.
+Asset-heavy or inefficient operations with a low asset turnover of 0.34.",0.9595,0.85
+HEROMOTOCO,"Excellent return on equity (ROE) of 21.1% indicates high capital efficiency.
+Conservative leverage with a healthy Debt-to-Equity of 0.03.
+Strong cash generation with a latest Free Cash Flow of ₹3,095.0 Cr.
+High-quality earnings backed by a strong cash-flow-to-profit conversion (CFO/PAT ratio of 1.32).
+Excellent debt servicing capacity with an Interest Coverage Ratio of 47.3x.","Stagnant revenue growth with a 5-year Sales CAGR of only 2.2%.
+Sluggish earnings performance with a 5-year PAT CAGR of 1.5%.
+Premium asset pricing with a high Price-to-Book multiple of 12.6.",0.9764,0.85
+HINDALCO,"Strong cash generation with a latest Free Cash Flow of ₹9,789.0 Cr.
+High-quality earnings backed by a strong cash-flow-to-profit conversion (CFO/PAT ratio of 2.37).
+Excellent debt servicing capacity with an Interest Coverage Ratio of 126.5x.",Premium asset pricing with a high Price-to-Book multiple of 9.3.,0.9493,0.85
+HINDUNILVR,"Excellent return on equity (ROE) of 20.1% indicates high capital efficiency.
+Conservative leverage with a healthy Debt-to-Equity of 0.03.
+Strong cash generation with a latest Free Cash Flow of ₹10,145.0 Cr.
+High-quality earnings backed by a strong cash-flow-to-profit conversion (CFO/PAT ratio of 1.50).
+Excellent debt servicing capacity with an Interest Coverage Ratio of 57.8x.
+Attractive dividend yield of 4.3% provides stable cash income.","Premium asset pricing with a high Price-to-Book multiple of 11.9.
+Unsustainably high dividend payout ratio of 96.0%, leaving little retained earnings for growth.",0.985,0.85
+ICICIBANK,"Robust long-term top-line growth with a 5-year Sales CAGR of 17.3%.
+Accelerated earnings expansion with a 5-year PAT CAGR of 51.9%.
+Strong cash generation with a latest Free Cash Flow of ₹12,547.0 Cr.
+High-quality earnings backed by a strong cash-flow-to-profit conversion (CFO/PAT ratio of 3.41).
+Attractive dividend yield of 3.4% provides stable cash income.","Weak debt servicing cushion with an Interest Coverage Ratio of only 1.30x.
+Asset-heavy or inefficient operations with a low asset turnover of 0.07.",0.9524,0.85
+ICICIGI,"Conservative leverage with a healthy Debt-to-Equity of 0.00.
+High-quality earnings backed by a strong cash-flow-to-profit conversion (CFO/PAT ratio of 1.25).
+Excellent debt servicing capacity with an Interest Coverage Ratio of 160.0x.
+Attractive dividend yield of 3.5% provides stable cash income.",Asset-heavy or inefficient operations with a low asset turnover of 0.32.,0.9413,0.85
+ICICIPRULI,"Conservative leverage with a healthy Debt-to-Equity of 0.11.
+Robust long-term top-line growth with a 5-year Sales CAGR of 16.8%.
+Excellent debt servicing capacity with an Interest Coverage Ratio of 31.0x.","Subpar return on equity (ROE) of 7.7% indicates weak profitability relative to equity.
+Low return on capital employed (ROCE) of 8.5% shows inefficient capital allocation.
+Sluggish earnings performance with a 5-year PAT CAGR of -5.7%.
+Lower earnings quality with a CFO/PAT ratio of only -8.60, indicating accrual drag.
+Premium asset pricing with a high Price-to-Book multiple of 12.4.
+Asset-heavy or inefficient operations with a low asset turnover of 0.30.",0.7269,0.85
+INDIGO,"Excellent return on equity (ROE) of 892.6% indicates high capital efficiency.
+Strong return on capital employed (ROCE) of 981.8% shows highly profitable operations.
+Conservative leverage with a healthy Debt-to-Equity of 0.02.
+Robust long-term top-line growth with a 5-year Sales CAGR of 19.3%.
+Accelerated earnings expansion with a 5-year PAT CAGR of 120.7%.
+Strong cash generation with a latest Free Cash Flow of ₹9,424.0 Cr.
+High-quality earnings backed by a strong cash-flow-to-profit conversion (CFO/PAT ratio of 2.59).
+Excellent debt servicing capacity with an Interest Coverage Ratio of 22.6x.
+Attractive dividend yield of 4.3% provides stable cash income.
+Efficient asset utilization with an asset turnover ratio of 56.39.",Stock trades at a premium valuation multiple with a high P/E ratio of 76.2 (above sector median of 38.0).,0.9925,0.85
+INDUSINDBK,"Robust long-term top-line growth with a 5-year Sales CAGR of 15.5%.
+Accelerated earnings expansion with a 5-year PAT CAGR of 22.1%.","Latest free cash flow is negative (₹-17,468.0 Cr), requiring external capital or cash drawdowns.
+Lower earnings quality with a CFO/PAT ratio of only -1.88, indicating accrual drag.
+Asset-heavy or inefficient operations with a low asset turnover of 0.09.",0.2263,0.85
+INFY,"Excellent return on equity (ROE) of 29.8% indicates high capital efficiency.
+Strong return on capital employed (ROCE) of 32.8% shows highly profitable operations.
+Conservative leverage with a healthy Debt-to-Equity of 0.09.
+Strong cash generation with a latest Free Cash Flow of ₹20,117.0 Cr.
+Excellent debt servicing capacity with an Interest Coverage Ratio of 87.5x.
+Attractive dividend yield of 4.1% provides stable cash income.",Premium asset pricing with a high Price-to-Book multiple of 9.0.,0.9859,0.85
+IOC,"Excellent return on equity (ROE) of 23.5% indicates high capital efficiency.
+Strong return on capital employed (ROCE) of 25.9% shows highly profitable operations.
+Accelerated earnings expansion with a 5-year PAT CAGR of 20.1%.
+Strong cash generation with a latest Free Cash Flow of ₹39,635.0 Cr.
+High-quality earnings backed by a strong cash-flow-to-profit conversion (CFO/PAT ratio of 1.65).
+Excellent debt servicing capacity with an Interest Coverage Ratio of 10.3x.
+Efficient asset utilization with an asset turnover ratio of 1.61.",Subject to general macroeconomic cycles and equity market volatility risks.,0.9856,0.85
+IRCTC,"Excellent return on equity (ROE) of 34.4% indicates high capital efficiency.
+Strong return on capital employed (ROCE) of 37.8% shows highly profitable operations.
+Conservative leverage with a healthy Debt-to-Equity of 0.02.
+Robust long-term top-line growth with a 5-year Sales CAGR of 18.0%.
+Accelerated earnings expansion with a 5-year PAT CAGR of 29.2%.
+Strong cash generation with a latest Free Cash Flow of ₹667.0 Cr.
+Excellent debt servicing capacity with an Interest Coverage Ratio of 82.7x.",Stock trades at a premium valuation multiple with a high P/E ratio of 60.4 (above sector median of 38.0).,0.9837,0.85
+IRFC,"Robust long-term top-line growth with a 5-year Sales CAGR of 19.1%.
+Accelerated earnings expansion with a 5-year PAT CAGR of 23.2%.
+Strong cash generation with a latest Free Cash Flow of ₹7,906.0 Cr.
+High-quality earnings backed by a strong cash-flow-to-profit conversion (CFO/PAT ratio of 1.23).","Weak debt servicing cushion with an Interest Coverage Ratio of only 1.32x.
+Asset-heavy or inefficient operations with a low asset turnover of 0.05.",0.9186,0.85
+ITC,"Excellent return on equity (ROE) of 27.9% indicates high capital efficiency.
+Strong return on capital employed (ROCE) of 30.6% shows highly profitable operations.
+Conservative leverage with a healthy Debt-to-Equity of 0.00.
+Strong cash generation with a latest Free Cash Flow of ₹18,742.0 Cr.
+Excellent debt servicing capacity with an Interest Coverage Ratio of 363.0x.
+Attractive dividend yield of 4.3% provides stable cash income.",Subject to general macroeconomic cycles and equity market volatility risks.,0.9821,0.85
+JINDALSTEL,Excellent debt servicing capacity with an Interest Coverage Ratio of 8.0x.,"Stagnant revenue growth with a 5-year Sales CAGR of only 1.4%.
+Latest free cash flow is negative (₹-2,336.0 Cr), requiring external capital or cash drawdowns.",0.7506,0.85
+JIOFIN,"Company is completely debt-free, minimizing leverage risk.
+Strong cash generation with a latest Free Cash Flow of ₹763.0 Cr.
+Excellent debt servicing capacity with an Interest Coverage Ratio of 198.8x.
+Attractive dividend yield of 3.1% provides stable cash income.","Subpar return on equity (ROE) of 1.2% indicates weak profitability relative to equity.
+Low return on capital employed (ROCE) of 1.3% shows inefficient capital allocation.
+Lower earnings quality with a CFO/PAT ratio of only -0.42, indicating accrual drag.
+Premium asset pricing with a high Price-to-Book multiple of 9.9.
+Asset-heavy or inefficient operations with a low asset turnover of 0.01.",0.8934,0.85
+JSWENERGY,"Accelerated earnings expansion with a 5-year PAT CAGR of 20.3%.
+High-quality earnings backed by a strong cash-flow-to-profit conversion (CFO/PAT ratio of 3.61).","Low return on capital employed (ROCE) of 9.1% shows inefficient capital allocation.
+Stagnant revenue growth with a 5-year Sales CAGR of only 4.7%.
+Latest free cash flow is negative (₹-1,963.0 Cr), requiring external capital or cash drawdowns.
+Premium asset pricing with a high Price-to-Book multiple of 9.9.
+Asset-heavy or inefficient operations with a low asset turnover of 0.20.",0.7506,0.85
+JSWSTEEL,"Robust long-term top-line growth with a 5-year Sales CAGR of 15.6%.
+High-quality earnings backed by a strong cash-flow-to-profit conversion (CFO/PAT ratio of 1.35).","Sluggish earnings performance with a 5-year PAT CAGR of 3.6%.
+Latest free cash flow is negative (₹-2,389.0 Cr), requiring external capital or cash drawdowns.",0.6486,0.85
+KOTAKBANK,"Accelerated earnings expansion with a 5-year PAT CAGR of 20.4%.
+Strong cash generation with a latest Free Cash Flow of ₹6,766.0 Cr.","Weak debt servicing cushion with an Interest Coverage Ratio of only 1.24x.
+Asset-heavy or inefficient operations with a low asset turnover of 0.07.",0.6808,0.85
+LICI,"Excellent return on equity (ROE) of 49.4% indicates high capital efficiency.
+Strong return on capital employed (ROCE) of 54.4% shows highly profitable operations.
+Company is completely debt-free, minimizing leverage risk.
+Accelerated earnings expansion with a 5-year PAT CAGR of 73.2%.
+Strong cash generation with a latest Free Cash Flow of ₹853.0 Cr.
+Excellent debt servicing capacity with an Interest Coverage Ratio of 371.9x.
+Attractive dividend yield of 3.8% provides stable cash income.","Premium asset pricing with a high Price-to-Book multiple of 8.1.
+Asset-heavy or inefficient operations with a low asset turnover of 0.16.",0.9824,0.85
+LODHA,"High-quality earnings backed by a strong cash-flow-to-profit conversion (CFO/PAT ratio of 1.62).
+Attractive dividend yield of 4.0% provides stable cash income.","Low return on capital employed (ROCE) of 9.8% shows inefficient capital allocation.
+Stagnant revenue growth with a 5-year Sales CAGR of only -2.8%.
+Sluggish earnings performance with a 5-year PAT CAGR of -1.1%.
+Latest free cash flow is negative (₹-435.0 Cr), requiring external capital or cash drawdowns.
+Asset-heavy or inefficient operations with a low asset turnover of 0.22.",0.743,0.85
+LT,"Excellent return on equity (ROE) of 77.7% indicates high capital efficiency.
+Strong return on capital employed (ROCE) of 85.4% shows highly profitable operations.
+Conservative leverage with a healthy Debt-to-Equity of 0.10.
+Strong cash generation with a latest Free Cash Flow of ₹20,445.0 Cr.
+Efficient asset utilization with an asset turnover ratio of 8.03.",Subject to general macroeconomic cycles and equity market volatility risks.,0.9792,0.85
+LTIM,"Excellent return on equity (ROE) of 22.9% indicates high capital efficiency.
+Strong return on capital employed (ROCE) of 25.2% shows highly profitable operations.
+Conservative leverage with a healthy Debt-to-Equity of 0.10.
+Robust long-term top-line growth with a 5-year Sales CAGR of 30.3%.
+Accelerated earnings expansion with a 5-year PAT CAGR of 24.8%.
+Strong cash generation with a latest Free Cash Flow of ₹1,752.0 Cr.
+High-quality earnings backed by a strong cash-flow-to-profit conversion (CFO/PAT ratio of 1.24).
+Excellent debt servicing capacity with an Interest Coverage Ratio of 31.9x.
+Attractive dividend yield of 4.4% provides stable cash income.",Subject to general macroeconomic cycles and equity market volatility risks.,0.9887,0.85
+MM,Solid market presence as part of the Nifty 100 blue-chip universe.,"Latest free cash flow is negative (₹-11,245.0 Cr), requiring external capital or cash drawdowns.
+Lower earnings quality with a CFO/PAT ratio of only -0.46, indicating accrual drag.",-0.0516,0.85
+MARUTI,"Conservative leverage with a healthy Debt-to-Equity of 0.00.
+Strong cash generation with a latest Free Cash Flow of ₹4,936.0 Cr.
+High-quality earnings backed by a strong cash-flow-to-profit conversion (CFO/PAT ratio of 1.25).
+Excellent debt servicing capacity with an Interest Coverage Ratio of 117.9x.",Premium asset pricing with a high Price-to-Book multiple of 8.3.,0.9607,0.85
+MOTHERSON,"Strong cash generation with a latest Free Cash Flow of ₹925.0 Cr.
+High-quality earnings backed by a strong cash-flow-to-profit conversion (CFO/PAT ratio of 2.51).",Subject to general macroeconomic cycles and equity market volatility risks.,0.836,0.85
+NAUKRI,"Conservative leverage with a healthy Debt-to-Equity of 0.01.
+Robust long-term top-line growth with a 5-year Sales CAGR of 17.1%.
+Excellent debt servicing capacity with an Interest Coverage Ratio of 29.0x.
+Attractive dividend yield of 4.3% provides stable cash income.","Subpar return on equity (ROE) of 2.0% indicates weak profitability relative to equity.
+Low return on capital employed (ROCE) of 2.2% shows inefficient capital allocation.
+Sluggish earnings performance with a 5-year PAT CAGR of 0.1%.
+Latest free cash flow is negative (₹-150.0 Cr), requiring external capital or cash drawdowns.
+Premium asset pricing with a high Price-to-Book multiple of 8.3.
+Asset-heavy or inefficient operations with a low asset turnover of 0.07.",0.9169,0.85
+NESTLEIND,"Excellent return on equity (ROE) of 117.8% indicates high capital efficiency.
+Strong return on capital employed (ROCE) of 129.5% shows highly profitable operations.
+Conservative leverage with a healthy Debt-to-Equity of 0.10.
+Strong cash generation with a latest Free Cash Flow of ₹2,938.0 Cr.
+Excellent debt servicing capacity with an Interest Coverage Ratio of 41.2x.
+Attractive dividend yield of 3.9% provides stable cash income.
+Efficient asset utilization with an asset turnover ratio of 2.32.",Premium asset pricing with a high Price-to-Book multiple of 14.3.,0.9903,0.85
+NHPC,"Strong cash generation with a latest Free Cash Flow of ₹970.0 Cr.
+High-quality earnings backed by a strong cash-flow-to-profit conversion (CFO/PAT ratio of 1.72).
+Excellent debt servicing capacity with an Interest Coverage Ratio of 11.2x.","Stagnant revenue growth with a 5-year Sales CAGR of only 1.4%.
+Stock trades at a premium valuation multiple with a high P/E ratio of 71.2 (above sector median of 44.9).
+Premium asset pricing with a high Price-to-Book multiple of 13.7.
+Asset-heavy or inefficient operations with a low asset turnover of 0.10.",0.9623,0.85
+NTPC,"Strong cash generation with a latest Free Cash Flow of ₹8,644.0 Cr.
+High-quality earnings backed by a strong cash-flow-to-profit conversion (CFO/PAT ratio of 1.91).",Asset-heavy or inefficient operations with a low asset turnover of 0.37.,0.886,0.85
+ONGC,"Strong cash generation with a latest Free Cash Flow of ₹42,060.0 Cr.
+High-quality earnings backed by a strong cash-flow-to-profit conversion (CFO/PAT ratio of 1.74).
+Excellent debt servicing capacity with an Interest Coverage Ratio of 11.4x.
+Generous free cash flow yield of 10.8% indicates undervaluation.",Premium asset pricing with a high Price-to-Book multiple of 10.4.,0.9729,0.85
+PFC,"Excellent return on equity (ROE) of 26.2% indicates high capital efficiency.
+Strong return on capital employed (ROCE) of 28.8% shows highly profitable operations.","Latest free cash flow is negative (₹-101,229.0 Cr), requiring external capital or cash drawdowns.
+Lower earnings quality with a CFO/PAT ratio of only -3.70, indicating accrual drag.
+Weak debt servicing cushion with an Interest Coverage Ratio of only 0.58x.
+Asset-heavy or inefficient operations with a low asset turnover of 0.09.",0.8016,0.85
+PIDILITIND,"Excellent return on equity (ROE) of 20.8% indicates high capital efficiency.
+Conservative leverage with a healthy Debt-to-Equity of 0.05.
+Strong cash generation with a latest Free Cash Flow of ₹955.0 Cr.
+High-quality earnings backed by a strong cash-flow-to-profit conversion (CFO/PAT ratio of 1.56).
+Excellent debt servicing capacity with an Interest Coverage Ratio of 54.3x.",Premium asset pricing with a high Price-to-Book multiple of 12.3.,0.9766,0.85
+PNB,"Excellent return on equity (ROE) of 61.3% indicates high capital efficiency.
+Strong return on capital employed (ROCE) of 67.5% shows highly profitable operations.
+Robust long-term top-line growth with a 5-year Sales CAGR of 15.9%.
+Efficient asset utilization with an asset turnover ratio of 1.51.","Latest free cash flow is negative (₹-29,445.0 Cr), requiring external capital or cash drawdowns.
+Lower earnings quality with a CFO/PAT ratio of only -3.05, indicating accrual drag.
+Premium asset pricing with a high Price-to-Book multiple of 10.9.",0.9711,0.85
+POWERGRID,"Strong cash generation with a latest Free Cash Flow of ₹24,176.0 Cr.
+High-quality earnings backed by a strong cash-flow-to-profit conversion (CFO/PAT ratio of 2.39).
+Attractive dividend yield of 3.1% provides stable cash income.
+Generous free cash flow yield of 6.5% indicates undervaluation.",Asset-heavy or inefficient operations with a low asset turnover of 0.18.,0.9686,0.85
+RECLTD,Excellent return on equity (ROE) of 20.4% indicates high capital efficiency.,"Latest free cash flow is negative (₹-59,554.0 Cr), requiring external capital or cash drawdowns.
+Lower earnings quality with a CFO/PAT ratio of only -4.08, indicating accrual drag.
+Weak debt servicing cushion with an Interest Coverage Ratio of only 1.60x.
+Asset-heavy or inefficient operations with a low asset turnover of 0.09.",0.1779,0.85
+RELIANCE,"Strong cash generation with a latest Free Cash Flow of ₹45,207.0 Cr.
+High-quality earnings backed by a strong cash-flow-to-profit conversion (CFO/PAT ratio of 2.01).
+Attractive dividend yield of 4.2% provides stable cash income.
+Generous free cash flow yield of 10.5% indicates undervaluation.",Subject to general macroeconomic cycles and equity market volatility risks.,0.9618,0.85
+SBILIFE,"Company is completely debt-free, minimizing leverage risk.
+Robust long-term top-line growth with a 5-year Sales CAGR of 24.2%.
+High-quality earnings backed by a strong cash-flow-to-profit conversion (CFO/PAT ratio of 15.38).
+Excellent debt servicing capacity with an Interest Coverage Ratio of 240.3x.","Latest free cash flow is negative (₹-2,099.0 Cr), requiring external capital or cash drawdowns.
+Stock trades at a premium valuation multiple with a high P/E ratio of 70.0 (above sector median of 34.2).
+Premium asset pricing with a high Price-to-Book multiple of 9.5.
+Asset-heavy or inefficient operations with a low asset turnover of 0.33.",0.9186,0.85
+SBIN,"Accelerated earnings expansion with a 5-year PAT CAGR of 83.4%.
+Strong cash generation with a latest Free Cash Flow of ₹18,156.0 Cr.","Lower earnings quality with a CFO/PAT ratio of only 0.31, indicating accrual drag.
+Weak debt servicing cushion with an Interest Coverage Ratio of only 0.37x.
+Stock trades at a premium valuation multiple with a high P/E ratio of 54.9 (above sector median of 34.2).",0.2732,0.85
+SHREECEM,"Conservative leverage with a healthy Debt-to-Equity of 0.08.
+Strong cash generation with a latest Free Cash Flow of ₹1,929.0 Cr.
+High-quality earnings backed by a strong cash-flow-to-profit conversion (CFO/PAT ratio of 1.93).
+Excellent debt servicing capacity with an Interest Coverage Ratio of 19.8x.
+Attractive dividend yield of 3.2% provides stable cash income.",Low return on capital employed (ROCE) of 9.2% shows inefficient capital allocation.,0.9633,0.85
+SHRIRAMFIN,"Robust long-term top-line growth with a 5-year Sales CAGR of 18.6%.
+Accelerated earnings expansion with a 5-year PAT CAGR of 23.5%.","Latest free cash flow is negative (₹-31,359.0 Cr), requiring external capital or cash drawdowns.
+Lower earnings quality with a CFO/PAT ratio of only -4.20, indicating accrual drag.
+Weak debt servicing cushion with an Interest Coverage Ratio of only 0.68x.
+Stock trades at a premium valuation multiple with a high P/E ratio of 68.5 (above sector median of 34.2).
+Asset-heavy or inefficient operations with a low asset turnover of 0.15.",-0.128,0.85
+SIEMENS,Attractive dividend yield of 3.7% provides stable cash income.,Premium asset pricing with a high Price-to-Book multiple of 9.2.,0.765,0.85
+SUNPHARMA,"Conservative leverage with a healthy Debt-to-Equity of 0.05.
+Accelerated earnings expansion with a 5-year PAT CAGR of 24.5%.
+Strong cash generation with a latest Free Cash Flow of ₹11,372.0 Cr.
+High-quality earnings backed by a strong cash-flow-to-profit conversion (CFO/PAT ratio of 1.26).
+Excellent debt servicing capacity with an Interest Coverage Ratio of 58.3x.
+Attractive dividend yield of 3.9% provides stable cash income.",Subject to general macroeconomic cycles and equity market volatility risks.,0.9633,0.85
+TATACONSUM,"Conservative leverage with a healthy Debt-to-Equity of 0.22.
+Robust long-term top-line growth with a 5-year Sales CAGR of 16.0%.
+Accelerated earnings expansion with a 5-year PAT CAGR of 21.6%.
+High-quality earnings backed by a strong cash-flow-to-profit conversion (CFO/PAT ratio of 1.59).
+Excellent debt servicing capacity with an Interest Coverage Ratio of 25.3x.","Subpar return on equity (ROE) of 7.6% indicates weak profitability relative to equity.
+Low return on capital employed (ROCE) of 8.3% shows inefficient capital allocation.",0.9081,0.85
+TATAMOTORS,"Excellent return on equity (ROE) of 37.5% indicates high capital efficiency.
+Strong return on capital employed (ROCE) of 41.2% shows highly profitable operations.
+Strong cash generation with a latest Free Cash Flow of ₹45,133.0 Cr.
+High-quality earnings backed by a strong cash-flow-to-profit conversion (CFO/PAT ratio of 2.14).
+Attractive dividend yield of 3.6% provides stable cash income.",Stock trades at a premium valuation multiple with a high P/E ratio of 67.1 (above sector median of 38.0).,0.9794,0.85
+TATAPOWER,"Robust long-term top-line growth with a 5-year Sales CAGR of 15.5%.
+Strong cash generation with a latest Free Cash Flow of ₹3,569.0 Cr.
+High-quality earnings backed by a strong cash-flow-to-profit conversion (CFO/PAT ratio of 2.94).",Subject to general macroeconomic cycles and equity market volatility risks.,0.9169,0.85
+TATASTEEL,"Strong cash generation with a latest Free Cash Flow of ₹6,048.0 Cr.","Subpar return on equity (ROE) of -5.3% indicates weak profitability relative to equity.
+Low return on capital employed (ROCE) of -5.9% shows inefficient capital allocation.
+Premium asset pricing with a high Price-to-Book multiple of 9.2.",0.7351,0.85
+TCS,"Excellent return on equity (ROE) of 50.9% indicates high capital efficiency.
+Strong return on capital employed (ROCE) of 56.0% shows highly profitable operations.
+Conservative leverage with a healthy Debt-to-Equity of 0.09.
+Strong cash generation with a latest Free Cash Flow of ₹50,429.0 Cr.
+Excellent debt servicing capacity with an Interest Coverage Ratio of 87.1x.
+Generous free cash flow yield of 10.9% indicates undervaluation.
+Efficient asset utilization with an asset turnover ratio of 1.66.",Subject to general macroeconomic cycles and equity market volatility risks.,0.9895,0.85
+TECHM,"Conservative leverage with a healthy Debt-to-Equity of 0.10.
+Strong cash generation with a latest Free Cash Flow of ₹5,058.0 Cr.
+High-quality earnings backed by a strong cash-flow-to-profit conversion (CFO/PAT ratio of 2.66).
+Excellent debt servicing capacity with an Interest Coverage Ratio of 13.9x.","Low return on capital employed (ROCE) of 9.9% shows inefficient capital allocation.
+Sluggish earnings performance with a 5-year PAT CAGR of -11.0%.
+Unsustainably high dividend payout ratio of 150.0%, leaving little retained earnings for growth.",0.9383,0.85
+TITAN,"Excellent return on equity (ROE) of 37.2% indicates high capital efficiency.
+Strong return on capital employed (ROCE) of 40.9% shows highly profitable operations.
+Robust long-term top-line growth with a 5-year Sales CAGR of 20.9%.
+Accelerated earnings expansion with a 5-year PAT CAGR of 20.3%.
+Strong cash generation with a latest Free Cash Flow of ₹1,506.0 Cr.
+Excellent debt servicing capacity with an Interest Coverage Ratio of 9.4x.
+Attractive dividend yield of 3.1% provides stable cash income.
+Efficient asset utilization with an asset turnover ratio of 1.62.","Lower earnings quality with a CFO/PAT ratio of only 0.48, indicating accrual drag.
+Premium asset pricing with a high Price-to-Book multiple of 10.5.",0.9899,0.85
+TORNTPHARM,"Excellent return on equity (ROE) of 24.2% indicates high capital efficiency.
+Strong return on capital employed (ROCE) of 26.6% shows highly profitable operations.
+Accelerated earnings expansion with a 5-year PAT CAGR of 30.6%.
+Strong cash generation with a latest Free Cash Flow of ₹3,106.0 Cr.
+High-quality earnings backed by a strong cash-flow-to-profit conversion (CFO/PAT ratio of 1.97).
+Excellent debt servicing capacity with an Interest Coverage Ratio of 9.9x.",Subject to general macroeconomic cycles and equity market volatility risks.,0.9771,0.85
+TRENT,"Excellent return on equity (ROE) of 36.3% indicates high capital efficiency.
+Strong return on capital employed (ROCE) of 39.9% shows highly profitable operations.
+Robust long-term top-line growth with a 5-year Sales CAGR of 36.3%.
+Accelerated earnings expansion with a 5-year PAT CAGR of 73.1%.
+Strong cash generation with a latest Free Cash Flow of ₹841.0 Cr.
+Excellent debt servicing capacity with an Interest Coverage Ratio of 8.0x.
+Attractive dividend yield of 3.5% provides stable cash income.
+Efficient asset utilization with an asset turnover ratio of 1.73.",Premium asset pricing with a high Price-to-Book multiple of 11.8.,0.9913,0.85
+TVSMOTOR,"Excellent return on equity (ROE) of 26.2% indicates high capital efficiency.
+Strong return on capital employed (ROCE) of 28.8% shows highly profitable operations.
+Attractive dividend yield of 3.1% provides stable cash income.","High leverage with a Debt-to-Equity ratio of 3.83, increasing insolvency risk.
+Latest free cash flow is negative (₹-2,254.0 Cr), requiring external capital or cash drawdowns.
+Lower earnings quality with a CFO/PAT ratio of only -0.70, indicating accrual drag.",0.9092,0.85

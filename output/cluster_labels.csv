@@ -1,0 +1,95 @@
+company_id,company_name,cluster_id,cluster_label
+ABB,Abbott India Ltd,0,Emerging Growth
+ADANIENSOL,Adani Energy Solutions Ltd,0,Emerging Growth
+ADANIENT,Adani Enterprises Ltd,0,Emerging Growth
+ADANIGREEN,Adani Green Energy Ltd,1,Value Cyclicals
+ADANIPORTS,Adani Ports & Special Economic Zone Ltd,3,Distressed
+ADANIPOWER,Adani Power Ltd,0,Emerging Growth
+AMBUJACEM,Ambuja Cements Ltd,0,Emerging Growth
+APOLLOHOSP,"Apollo Hospitals
+Chain of Indian private hospitals",0,Emerging Growth
+ASIANPAINT,"Asian Paints
+Indian Multi-National Paint and Coating Manufacturing Company",0,Emerging Growth
+ATGL,Adani Total Gas Ltd,0,Emerging Growth
+AXISBANK,Axis Bank Ltd,1,Value Cyclicals
+BAJAJ-AUTO,Bajaj Auto Ltd,0,Emerging Growth
+BAJAJFINSV,Bajaj Finserv Ltd,1,Value Cyclicals
+BAJAJHLDNG,Bajaj Holdings & Investment Ltd,3,Distressed
+BAJFINANCE,Bajaj Finance Ltd,1,Value Cyclicals
+BANKBARODA,Bank of Baroda,1,Value Cyclicals
+BEL,Bharat Electronics Ltd,2,High-Quality Growth
+BHARTIARTL,Bharti Airtel Ltd,0,Emerging Growth
+BHEL,Bharat Heavy Electricals Limited,0,Emerging Growth
+BOSCHLTD,Bosch Ltd,0,Emerging Growth
+BPCL,Bharat Petroleum Corporation Ltd,0,Emerging Growth
+BRITANNIA,Britannia Industries Ltd,0,Emerging Growth
+CANBK,Canara Bank,1,Value Cyclicals
+CHOLAFIN,Cholamandalam Investment & Finance Company Ltd,1,Value Cyclicals
+CIPLA,Cipla Ltd,3,Distressed
+COALINDIA,Coal India Ltd,3,Distressed
+DABUR,Dabur India Ltd,0,Emerging Growth
+DIVISLAB,Divis Laboratories Ltd,0,Emerging Growth
+DLF,DLF Ltd,0,Emerging Growth
+DMART,Avenue Supermarts Ltd,0,Emerging Growth
+DRREDDY,Dr Reddys Laboratories Ltd,0,Emerging Growth
+EICHERMOT,Eicher Motors Ltd,0,Emerging Growth
+GAIL,GAIL (India) Ltd,0,Emerging Growth
+GODREJCP,Godrej Consumer Products Ltd,0,Emerging Growth
+GRASIM,Grasim Industries Ltd,0,Emerging Growth
+HAL,Hindustan Aeronautics Ltd,2,High-Quality Growth
+HAVELLS,Havells India Ltd,0,Emerging Growth
+HCLTECH,HCL Technologies Ltd,0,Emerging Growth
+HDFCBANK,HDFC Bank Ltd,1,Value Cyclicals
+HDFCLIFE,HDFC Life Insurance Company Ltd,3,Distressed
+HEROMOTOCO,Hero MotoCorp Ltd,3,Distressed
+HINDALCO,Hindalco Industries Ltd,3,Distressed
+HINDUNILVR,Hindustan Unilever Ltd,3,Distressed
+ICICIBANK,ICICI Bank Ltd,1,Value Cyclicals
+ICICIGI,ICICI Lombard General Insurance Company Ltd,3,Distressed
+ICICIPRULI,ICICI Prudential Life Insurance Company Ltd,3,Distressed
+INDIGO,Interglobe Aviation Ltd,4,Defensive Dividend
+INDUSINDBK,IndusInd Bank Ltd,1,Value Cyclicals
+INFY,Infosys Ltd,0,Emerging Growth
+IOC,Indian Oil Corporation,0,Emerging Growth
+IRCTC,Indian Railway Catering & Tourism Corporation Ltd,0,Emerging Growth
+IRFC,Indian Railway Finance Corporation Ltd,1,Value Cyclicals
+ITC,ITC Ltd,0,Emerging Growth
+JINDALSTEL,Jindal Steel & Power Ltd,0,Emerging Growth
+JIOFIN,Jio Financial Services Ltd,3,Distressed
+JSWENERGY,JSW Energy Ltd,0,Emerging Growth
+JSWSTEEL,JSW Steel Ltd,0,Emerging Growth
+KOTAKBANK,Kotak Mahindra Bank Ltd,3,Distressed
+LICI,Life Insurance Corporation of India,4,Defensive Dividend
+LODHA,Macrotech Developers Ltd,0,Emerging Growth
+LT,Larsen & Toubro Ltd,0,Emerging Growth
+LTIM,LTIMindtree Ltd,0,Emerging Growth
+MM,Mahindra & Mahindra Ltd,0,Emerging Growth
+MARUTI,Maruti Suzuki India Ltd,0,Emerging Growth
+MOTHERSON,Samvardhana Motherson International Ltd,0,Emerging Growth
+NAUKRI,Info Edge (India) Ltd,0,Emerging Growth
+NESTLEIND,Nestle India Ltd,0,Emerging Growth
+NHPC,NHPC Ltd,0,Emerging Growth
+NTPC,NTPC Ltd,0,Emerging Growth
+ONGC,Oil & Natural Gas Corpn Ltd,0,Emerging Growth
+PFC,Power Finance Corporation Ltd,1,Value Cyclicals
+PIDILITIND,Pidilite Industries Ltd,0,Emerging Growth
+PNB,Punjab National Bank,0,Emerging Growth
+POWERGRID,Power Grid Corporation of India Ltd,3,Distressed
+RECLTD,REC Ltd,1,Value Cyclicals
+RELIANCE,Reliance Industries Ltd,0,Emerging Growth
+SBILIFE,SBI Life Insurance Company Ltd,0,Emerging Growth
+SBIN,State Bank of India,4,Defensive Dividend
+SHREECEM,Shree Cement Ltd,0,Emerging Growth
+SHRIRAMFIN,Shriram Finance Ltd,1,Value Cyclicals
+SIEMENS,Siemens Ltd,0,Emerging Growth
+SUNPHARMA,Sun Pharmaceuticals Industries Ltd,0,Emerging Growth
+TATACONSUM,Tata Consumer Products Ltd,0,Emerging Growth
+TATAMOTORS,Tata Motors Ltd,0,Emerging Growth
+TATAPOWER,Tata Power Company Ltd,0,Emerging Growth
+TATASTEEL,Tata Steel Ltd,0,Emerging Growth
+TCS,Tata Consultancy Services Ltd,0,Emerging Growth
+TECHM,Tech Mahindra Ltd,0,Emerging Growth
+TITAN,Titan Company Ltd,0,Emerging Growth
+TORNTPHARM,Torrent Pharmaceuticals Ltd,0,Emerging Growth
+TRENT,Trent Ltd,4,Defensive Dividend
+TVSMOTOR,TVS Motor Company Ltd,0,Emerging Growth
